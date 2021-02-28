@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.30413.136
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classes", "Classes.csproj", "{303775A6-49E1-4971-A15E-1FF86ED8AE24}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringBuilder", "..\StringBuilder\StringBuilder.csproj", "{A007B9B0-3FD1-4F00-A72B-979C0632F756}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProceduralProgramming", "..\ProceduralProgramming\ProceduralProgramming.csproj", "{8F7B81DB-5FBD-428B-B265-F06297D9D4BF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{303775A6-49E1-4971-A15E-1FF86ED8AE24}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{303775A6-49E1-4971-A15E-1FF86ED8AE24}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{303775A6-49E1-4971-A15E-1FF86ED8AE24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A007B9B0-3FD1-4F00-A72B-979C0632F756}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A007B9B0-3FD1-4F00-A72B-979C0632F756}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A007B9B0-3FD1-4F00-A72B-979C0632F756}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A007B9B0-3FD1-4F00-A72B-979C0632F756}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F7B81DB-5FBD-428B-B265-F06297D9D4BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F7B81DB-5FBD-428B-B265-F06297D9D4BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F7B81DB-5FBD-428B-B265-F06297D9D4BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F7B81DB-5FBD-428B-B265-F06297D9D4BF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

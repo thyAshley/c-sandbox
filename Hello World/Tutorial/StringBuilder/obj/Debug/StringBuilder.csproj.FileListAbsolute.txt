@@ -1,0 +1,6 @@
+C:\Users\ash\Desktop\C# files\Hello World\Tutorial\StringBuilder\bin\Debug\StringBuilder.exe.config
+C:\Users\ash\Desktop\C# files\Hello World\Tutorial\StringBuilder\bin\Debug\StringBuilder.exe
+C:\Users\ash\Desktop\C# files\Hello World\Tutorial\StringBuilder\bin\Debug\StringBuilder.pdb
+C:\Users\ash\Desktop\C# files\Hello World\Tutorial\StringBuilder\obj\Debug\StringBuilder.csproj.CoreCompileInputs.cache
+C:\Users\ash\Desktop\C# files\Hello World\Tutorial\StringBuilder\obj\Debug\StringBuilder.exe
+C:\Users\ash\Desktop\C# files\Hello World\Tutorial\StringBuilder\obj\Debug\StringBuilder.pdb

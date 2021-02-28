@@ -1,0 +1,7 @@
+C:\Users\ash\Desktop\C# files\Hello World\Tutorial\ProceduralProgramming\bin\Debug\ProceduralProgramming.exe.config
+C:\Users\ash\Desktop\C# files\Hello World\Tutorial\ProceduralProgramming\bin\Debug\ProceduralProgramming.exe
+C:\Users\ash\Desktop\C# files\Hello World\Tutorial\ProceduralProgramming\bin\Debug\ProceduralProgramming.pdb
+C:\Users\ash\Desktop\C# files\Hello World\Tutorial\ProceduralProgramming\obj\Debug\ProceduralProgramming.csprojAssemblyReference.cache
+C:\Users\ash\Desktop\C# files\Hello World\Tutorial\ProceduralProgramming\obj\Debug\ProceduralProgramming.csproj.CoreCompileInputs.cache
+C:\Users\ash\Desktop\C# files\Hello World\Tutorial\ProceduralProgramming\obj\Debug\ProceduralProgramming.exe
+C:\Users\ash\Desktop\C# files\Hello World\Tutorial\ProceduralProgramming\obj\Debug\ProceduralProgramming.pdb
