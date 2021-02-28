@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringBuilder", "..\StringB
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProceduralProgramming", "..\ProceduralProgramming\ProceduralProgramming.csproj", "{8F7B81DB-5FBD-428B-B265-F06297D9D4BF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocalFiles", "..\LocalFiles\LocalFiles.csproj", "{38D18D7C-FCB6-44FC-80E1-E77CE9E7469C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreHelloWorld", "..\NetCoreHelloWorld\NetCoreHelloWorld.csproj", "{C4675F42-F141-47B4-8121-F95DF0964A89}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{8F7B81DB-5FBD-428B-B265-F06297D9D4BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8F7B81DB-5FBD-428B-B265-F06297D9D4BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8F7B81DB-5FBD-428B-B265-F06297D9D4BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38D18D7C-FCB6-44FC-80E1-E77CE9E7469C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38D18D7C-FCB6-44FC-80E1-E77CE9E7469C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38D18D7C-FCB6-44FC-80E1-E77CE9E7469C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38D18D7C-FCB6-44FC-80E1-E77CE9E7469C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4675F42-F141-47B4-8121-F95DF0964A89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4675F42-F141-47B4-8121-F95DF0964A89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4675F42-F141-47B4-8121-F95DF0964A89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4675F42-F141-47B4-8121-F95DF0964A89}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
