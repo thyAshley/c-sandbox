@@ -11,9 +11,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProceduralProgramming", "..
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocalFiles", "..\LocalFiles\LocalFiles.csproj", "{38D18D7C-FCB6-44FC-80E1-E77CE9E7469C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreHelloWorld", "..\NetCoreHelloWorld\NetCoreHelloWorld.csproj", "{C4675F42-F141-47B4-8121-F95DF0964A89}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NetCoreHelloWorld", "..\NetCoreHelloWorld\NetCoreHelloWorld.csproj", "{C4675F42-F141-47B4-8121-F95DF0964A89}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetSmallest", "..\GetSmallest\GetSmallest.csproj", "{09D18D14-5A8C-41A1-9616-1A0010D8030B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntermediateConstructor", "..\..\..\Intermediate\IntermediateConstructor\IntermediateConstructor.csproj", "{79851C83-760E-4C05-8661-260793EC0817}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{09D18D14-5A8C-41A1-9616-1A0010D8030B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{09D18D14-5A8C-41A1-9616-1A0010D8030B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{09D18D14-5A8C-41A1-9616-1A0010D8030B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79851C83-760E-4C05-8661-260793EC0817}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79851C83-760E-4C05-8661-260793EC0817}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79851C83-760E-4C05-8661-260793EC0817}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79851C83-760E-4C05-8661-260793EC0817}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

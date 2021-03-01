@@ -1,0 +1,7 @@
+C:\Users\ash\Desktop\C# files\Intermediate\IntermediateConstructor\bin\Debug\IntermediateConstructor.exe.config
+C:\Users\ash\Desktop\C# files\Intermediate\IntermediateConstructor\bin\Debug\IntermediateConstructor.exe
+C:\Users\ash\Desktop\C# files\Intermediate\IntermediateConstructor\bin\Debug\IntermediateConstructor.pdb
+C:\Users\ash\Desktop\C# files\Intermediate\IntermediateConstructor\obj\Debug\IntermediateConstructor.csprojAssemblyReference.cache
+C:\Users\ash\Desktop\C# files\Intermediate\IntermediateConstructor\obj\Debug\IntermediateConstructor.csproj.CoreCompileInputs.cache
+C:\Users\ash\Desktop\C# files\Intermediate\IntermediateConstructor\obj\Debug\IntermediateConstructor.exe
+C:\Users\ash\Desktop\C# files\Intermediate\IntermediateConstructor\obj\Debug\IntermediateConstructor.pdb

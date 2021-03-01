@@ -1,0 +1,13 @@
+C:\Users\ash\Desktop\C# files\Hello World\Tutorial\NetCoreHelloWorld\bin\Debug\netcoreapp3.1\NetCoreHelloWorld.exe
+C:\Users\ash\Desktop\C# files\Hello World\Tutorial\NetCoreHelloWorld\bin\Debug\netcoreapp3.1\NetCoreHelloWorld.deps.json
+C:\Users\ash\Desktop\C# files\Hello World\Tutorial\NetCoreHelloWorld\bin\Debug\netcoreapp3.1\NetCoreHelloWorld.runtimeconfig.json
+C:\Users\ash\Desktop\C# files\Hello World\Tutorial\NetCoreHelloWorld\bin\Debug\netcoreapp3.1\NetCoreHelloWorld.runtimeconfig.dev.json
+C:\Users\ash\Desktop\C# files\Hello World\Tutorial\NetCoreHelloWorld\bin\Debug\netcoreapp3.1\NetCoreHelloWorld.dll
+C:\Users\ash\Desktop\C# files\Hello World\Tutorial\NetCoreHelloWorld\bin\Debug\netcoreapp3.1\NetCoreHelloWorld.pdb
+C:\Users\ash\Desktop\C# files\Hello World\Tutorial\NetCoreHelloWorld\obj\Debug\netcoreapp3.1\NetCoreHelloWorld.csprojAssemblyReference.cache
+C:\Users\ash\Desktop\C# files\Hello World\Tutorial\NetCoreHelloWorld\obj\Debug\netcoreapp3.1\NetCoreHelloWorld.AssemblyInfoInputs.cache
+C:\Users\ash\Desktop\C# files\Hello World\Tutorial\NetCoreHelloWorld\obj\Debug\netcoreapp3.1\NetCoreHelloWorld.AssemblyInfo.cs
+C:\Users\ash\Desktop\C# files\Hello World\Tutorial\NetCoreHelloWorld\obj\Debug\netcoreapp3.1\NetCoreHelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\ash\Desktop\C# files\Hello World\Tutorial\NetCoreHelloWorld\obj\Debug\netcoreapp3.1\NetCoreHelloWorld.dll
+C:\Users\ash\Desktop\C# files\Hello World\Tutorial\NetCoreHelloWorld\obj\Debug\netcoreapp3.1\NetCoreHelloWorld.pdb
+C:\Users\ash\Desktop\C# files\Hello World\Tutorial\NetCoreHelloWorld\obj\Debug\netcoreapp3.1\NetCoreHelloWorld.genruntimeconfig.cache
