@@ -13,6 +13,7 @@ namespace IntermediateConstructor
 
             var order = new Order();
             customer.Orders.Add(order);
+            Console.WriteLine('0' - 1);
         }
     }
 }
