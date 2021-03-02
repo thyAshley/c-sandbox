@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
 
 namespace Methods
 {
@@ -7,8 +6,11 @@ namespace Methods
     {
         static void Main(string[] args)
         {
-            UseParams();
-            UsePoints();
+            var customer = new Customer(1, "james");
+            customer.Orders.Add(new Order());
+            customer.Orders.Add(new Order());
+            customer.Promote();
+            Console.WriteLine(customer.Orders.Count);
         }
 
         static void UseParams()
