@@ -1,0 +1,7 @@
+C:\Users\ash\Desktop\C# files\Intermediate\Indexes\bin\Debug\Indexes.exe.config
+C:\Users\ash\Desktop\C# files\Intermediate\Indexes\bin\Debug\Indexes.exe
+C:\Users\ash\Desktop\C# files\Intermediate\Indexes\bin\Debug\Indexes.pdb
+C:\Users\ash\Desktop\C# files\Intermediate\Indexes\obj\Debug\Indexes.csprojAssemblyReference.cache
+C:\Users\ash\Desktop\C# files\Intermediate\Indexes\obj\Debug\Indexes.csproj.CoreCompileInputs.cache
+C:\Users\ash\Desktop\C# files\Intermediate\Indexes\obj\Debug\Indexes.exe
+C:\Users\ash\Desktop\C# files\Intermediate\Indexes\obj\Debug\Indexes.pdb
