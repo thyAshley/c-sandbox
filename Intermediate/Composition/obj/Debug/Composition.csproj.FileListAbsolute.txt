@@ -1,0 +1,7 @@
+C:\Users\ash\Desktop\C# files\Intermediate\Composition\bin\Debug\Composition.exe.config
+C:\Users\ash\Desktop\C# files\Intermediate\Composition\bin\Debug\Composition.exe
+C:\Users\ash\Desktop\C# files\Intermediate\Composition\bin\Debug\Composition.pdb
+C:\Users\ash\Desktop\C# files\Intermediate\Composition\obj\Debug\Composition.csprojAssemblyReference.cache
+C:\Users\ash\Desktop\C# files\Intermediate\Composition\obj\Debug\Composition.csproj.CoreCompileInputs.cache
+C:\Users\ash\Desktop\C# files\Intermediate\Composition\obj\Debug\Composition.exe
+C:\Users\ash\Desktop\C# files\Intermediate\Composition\obj\Debug\Composition.pdb
