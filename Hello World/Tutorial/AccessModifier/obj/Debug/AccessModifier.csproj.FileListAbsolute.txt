@@ -5,3 +5,7 @@ C:\Users\ash\Desktop\C# files\Hello World\Tutorial\AccessModifier\obj\Debug\Acce
 C:\Users\ash\Desktop\C# files\Hello World\Tutorial\AccessModifier\obj\Debug\AccessModifier.csproj.CoreCompileInputs.cache
 C:\Users\ash\Desktop\C# files\Hello World\Tutorial\AccessModifier\obj\Debug\AccessModifier.exe
 C:\Users\ash\Desktop\C# files\Hello World\Tutorial\AccessModifier\obj\Debug\AccessModifier.pdb
+C:\Users\ash\Desktop\C# files\Hello World\Tutorial\AccessModifier\bin\Debug\Composition.exe
+C:\Users\ash\Desktop\C# files\Hello World\Tutorial\AccessModifier\bin\Debug\Composition.pdb
+C:\Users\ash\Desktop\C# files\Hello World\Tutorial\AccessModifier\bin\Debug\Composition.exe.config
+C:\Users\ash\Desktop\C# files\Hello World\Tutorial\AccessModifier\obj\Debug\AccessModifier.csproj.CopyComplete

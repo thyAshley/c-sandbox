@@ -1,0 +1,15 @@
+C:\Users\ash\Desktop\C# files\Intermediate\Casting\bin\Debug\Casting.exe.config
+C:\Users\ash\Desktop\C# files\Intermediate\Casting\bin\Debug\Casting.exe
+C:\Users\ash\Desktop\C# files\Intermediate\Casting\bin\Debug\Casting.pdb
+C:\Users\ash\Desktop\C# files\Intermediate\Casting\obj\Debug\Casting.csprojAssemblyReference.cache
+C:\Users\ash\Desktop\C# files\Intermediate\Casting\obj\Debug\MainWindow.g.cs
+C:\Users\ash\Desktop\C# files\Intermediate\Casting\obj\Debug\App.g.cs
+C:\Users\ash\Desktop\C# files\Intermediate\Casting\obj\Debug\Casting_MarkupCompile.cache
+C:\Users\ash\Desktop\C# files\Intermediate\Casting\obj\Debug\Casting_MarkupCompile.lref
+C:\Users\ash\Desktop\C# files\Intermediate\Casting\obj\Debug\MainWindow.baml
+C:\Users\ash\Desktop\C# files\Intermediate\Casting\obj\Debug\Casting.g.resources
+C:\Users\ash\Desktop\C# files\Intermediate\Casting\obj\Debug\Casting.Properties.Resources.resources
+C:\Users\ash\Desktop\C# files\Intermediate\Casting\obj\Debug\Casting.csproj.GenerateResource.cache
+C:\Users\ash\Desktop\C# files\Intermediate\Casting\obj\Debug\Casting.csproj.CoreCompileInputs.cache
+C:\Users\ash\Desktop\C# files\Intermediate\Casting\obj\Debug\Casting.exe
+C:\Users\ash\Desktop\C# files\Intermediate\Casting\obj\Debug\Casting.pdb
