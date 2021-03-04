@@ -4,3 +4,4 @@ C:\Users\ash\Desktop\C# files\Intermediate\Boxing\bin\Debug\Boxing.pdb
 C:\Users\ash\Desktop\C# files\Intermediate\Boxing\obj\Debug\Boxing.csproj.CoreCompileInputs.cache
 C:\Users\ash\Desktop\C# files\Intermediate\Boxing\obj\Debug\Boxing.exe
 C:\Users\ash\Desktop\C# files\Intermediate\Boxing\obj\Debug\Boxing.pdb
+C:\Users\ash\Desktop\C# files\Intermediate\Boxing\obj\Debug\Boxing.csprojAssemblyReference.cache
